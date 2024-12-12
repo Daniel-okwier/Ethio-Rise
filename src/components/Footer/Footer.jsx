@@ -39,18 +39,19 @@ const Footer = () => {
               </li>
             </ul>
           </div>
-          <div className="col-md-4">
-            <h5>Contact Us</h5>
-            <p>
-              referral circle, Hawassa ,Ethiopia
-              <br />
-              Phone: (+251) 9 -529-969-82, <br/>
-                (+251) 9 -939-206-85 .<br/>
-                Email:  ethiorise@gmail.com
-              <br />
-              
-            </p>
-          </div>
+      {/* 
+<div className="col-md-4">
+  <h5>Contact Us</h5>
+  <p>
+    referral circle, Hawassa ,Ethiopia
+    <br />
+    Phone: (+251) 9 -529-969-82, <br/>
+    (+251) 9 -939-206-85 .<br/>
+    Email: ethiorise@gmail.com
+    <br />
+  </p>
+</div>
+*/}
         </div>
         <hr />
         <div className="text-center">
